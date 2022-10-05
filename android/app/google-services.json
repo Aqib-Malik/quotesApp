@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181915225399",
+    "project_id": "postify-8cb58",
+    "storage_bucket": "postify-8cb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181915225399:android:d1bb5a74232bb8a4519eb2",
+        "android_client_info": {
+          "package_name": "com.example.positify_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181915225399-9omptun6acu9q91tru06hr94famg647s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.positify_project",
+            "certificate_hash": "a99bf029ed972123302bbeba1c8a6ae4dec20884"
+          }
+        },
+        {
+          "client_id": "181915225399-d20e7e8tqm1t2djkpf2933hncr9o82rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.positify_project",
+            "certificate_hash": "05b34ad62d83a00b7d678c660e2bf42fcb6a8b0a"
+          }
+        },
+        {
+          "client_id": "181915225399-iqubq5pdq5t9cdnqbapf5j2g9dtsocd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZ5xM8DZRymTkJ2mboUJFJbdX19lrJIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181915225399-iqubq5pdq5t9cdnqbapf5j2g9dtsocd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
